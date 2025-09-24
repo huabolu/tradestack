@@ -10,7 +10,7 @@
 - 不具备编程能力，但熟悉投资逻辑的 **投研人员**
 - 需要部署多账户、多策略、全天候监控的 **私募或机构团队**
 - 有多源数据管理与个性化因子建模需求的 **高阶策略研究者**
-<img width="1366" height="862" alt="main_interface" src="./docs/images/screenshot.png" />
+<img width="1366" height="862" alt="main_interface" src="./docs/images/main_interface.png" />
 
 ## 🌟 平台亮点
 
