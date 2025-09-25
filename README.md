@@ -1,10 +1,8 @@
 ## TRADESTACK - 交易栈
 
-交易栈是一款原生、易用且强大的的量化交易平台，支持无代码策略开发和快速部署，覆盖投研、资金规划、策略组合到实盘落地的完整流程。通过模块化架构与智能算法，帮助个人和机构高效实现多账户、多策略、全天候执行。
+一款能够迅速将量化产品投入实战应用的快速部署平台；旨在降低量化交易使用门槛、将量化交易核心理念简单化，实用化；无论你的角色是个人投资者、还是机构，风格是短线、还是中长线，均可在该平台寻找到价值并提升投资赢率。
 
-Short on time? Check out our [5-minute tutorial ⏱️](https://tutorial.docusaurus.io)!
-
-**Tip**: use **[docusaurus.new](https://docusaurus.new)** to test Docusaurus immediately in a playground.
+点击这里 [完整文档l ⏱️](https//www.tradestack.org)!
 
 - **全流程可视化，无需编程**
 
