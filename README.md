@@ -18,10 +18,9 @@
 
 ## 快速部署
 
-Use the initialization CLI to create your site:
-
 ```bash
-npm init docusaurus@latest
+1.服务器端部署:
+2.客户端部署：
 ```
 
 [Read the docs](https://docusaurus.io/docs/installation) for any further information.
