@@ -7,7 +7,7 @@
     <br />
     <br />
     <a href="https://docusaurus.io">
-      <img src="https://docusaurus.io/img/slash-introducing.svg" alt="Docusaurus">
+      <img src="https://docusaurus.io/img/slash-introducing.svg" alt="交易栈">
     </a>
   </h1>
 </div>
