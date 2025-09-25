@@ -18,10 +18,9 @@
 
 ## 快速部署
 
-```bash
-1.服务器端部署:
-2.客户端部署：
-```
+- **服务器端部署**
+
+- **客户端部署**
 
 [Read the docs](https://docusaurus.io/docs/installation) for any further information.
 
