@@ -3,11 +3,11 @@
 
 <div align="center">
   <h1 align="center">
-    交易栈
+    Tradestack
     <br />
     <br />
     <a href="https://docusaurus.io">
-      <img src="https://docusaurus.io/img/slash-introducing.svg" alt="交易栈">
+      <img src="https://docusaurus.io/img/slash-introducing.svg" alt="Tradestack">
     </a>
   </h1>
 </div>
