@@ -1,15 +1,4 @@
-<div align="center">
-  <h1 align="center">
-    TRADESTACK
-    <br />
-    <br />
-    <a href="https://docusaurus.io">
-      <img src="https://docusaurus.io/img/slash-introducing.svg" alt="TRADESTACK">
-    </a>
-  </h1>
-</div>
-
-## Introduction
+## TRADESTACK - 交易栈
 
 Docusaurus is a project for building, deploying, and maintaining open source project websites easily.
 
@@ -17,17 +6,17 @@ Short on time? Check out our [5-minute tutorial ⏱️](https://tutorial.docusau
 
 **Tip**: use **[docusaurus.new](https://docusaurus.new)** to test Docusaurus immediately in a playground.
 
-- **Simple to Start**
+- **简单好上手**
 
-> Docusaurus is built in a way so that it can [get running](https://docusaurus.io/docs/installation) in as little time as possible. We've built Docusaurus to handle the website build process so you can focus on your project.
+> 功能完整而不复杂，界面直观，用户无需编程即可快速构建策略组合、资金规则、因子模型和交易算法，降低量化交易门槛，上手即用。
 
-- **Localizable**
+- **模块化架构，自由组合**
 
-> Docusaurus ships with [localization support](https://docusaurus.io/docs/i18n/introduction) via CrowdIn. Empower and grow your international community by translating your documentation.
+> 采用积木式组件设计，策略、因子、交易模型可灵活组合与扩展，支持多账户、多策略、全天候交易，满足不同投资场景需求。
 
-- **Customizable**
+- **研究与交易一体化**
 
-> While Docusaurus ships with the key pages and sections you need to get started, including a home page, a docs section, a [blog](https://docusaurus.io/docs/blog), and additional support pages, it is also [customizable](https://docusaurus.io/docs/creating-pages) as well to ensure you have a site that is [uniquely yours](https://docusaurus.io/docs/styling-layout).
+> 覆盖从数据建模、投研分析、资金规划到策略组合和交易执行的完整流程，全流程自动化执行，用户专注于决策和布局，交易落地高效可靠。
 
 ## Installation
 
