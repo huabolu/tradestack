@@ -1,6 +1,17 @@
 
 [![Build Status](https://travis-ci.org/tainacan/tainacan.svg?branch=develop)](https://travis-ci.org/tainacan/tainacan)
 
+<div align="center">
+  <h1 align="center">
+    Docusaurus
+    <br />
+    <br />
+    <a href="https://docusaurus.io">
+      <img src="https://docusaurus.io/img/slash-introducing.svg" alt="Docusaurus">
+    </a>
+  </h1>
+</div>
+
 # 交易栈 - 极速策略交易平台
 
 一款能够迅速将量化产品投入实战应用的快速部署平台；旨在降低量化交易使用门槛、将量化交易核心理念简单化，实用化；
