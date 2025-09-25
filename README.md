@@ -18,6 +18,28 @@
 
 ## 快速部署
 
+在安装 Tradestack 前，需要准备数据库环境。
+
+1. 确认您已安装并能正常使用 **MySQL**。
+2. 准备一个 MySQL 账户（建议为专门账户，避免使用 root）。  
+3. 新建数据库，执行以下命令：
+```bash
+# 使用 root 或已有账户登录 MySQL
+mysql -u root -p
+
+# 创建数据库
+CREATE DATABASE tradestack_db DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+
+# 创建专用用户（替换 your_password 为自定义密码）
+CREATE USER 'tradestack_user'@'%' IDENTIFIED BY 'your_password';
+
+# 授权用户访问新数据库
+GRANT ALL PRIVILEGES ON tradestack_db.* TO 'tradestack_user'@'%';
+
+# 刷新权限
+FLUSH PRIVILEGES;
+```
+
 - **服务器端部署**
 
 - **客户端部署**
