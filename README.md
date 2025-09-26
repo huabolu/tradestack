@@ -22,7 +22,7 @@
 <img width="1366" height="862" alt="main_interface" src="https://github.com/user-attachments/assets/40f98e47-eb21-4931-843a-a2be5cebac35" />
 
 
-点击这里 [完整文档](UI_Preview.md)
+点击这里 -> [ 功能预览 ](UI_Preview.md)
 
 ## 快速部署
 
