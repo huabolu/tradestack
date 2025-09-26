@@ -20,6 +20,8 @@
 
 <img width="2049" height="1294" alt="main_interface" src="https://github.com/user-attachments/assets/933a6ffc-5e66-41e6-860b-e75c28321c25" />
 
+<img width="1366" height="862" alt="Screenshot 2025-09-26 104136" src="https://github.com/user-attachments/assets/aeace68f-0c59-403f-8d09-a0ca4f1a6093" />
+
 
 点击这里 [完整文档](http://www.tradestack.org:3000)
 
