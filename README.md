@@ -18,7 +18,9 @@
 
 ## 快速部署
 
-在安装 Tradestack 前，需要准备数据库环境。
+- **数据库准备**
+
+  在安装 Tradestack 前，需要准备数据库环境。
 
 1. 确认您已安装并能正常使用 **MySQL**。
 2. 准备一个 MySQL 账户（建议为专门账户，避免使用 root）。  
@@ -42,7 +44,7 @@ FLUSH PRIVILEGES;
 
 - **服务器端部署**
 
-下载服务器端安装包：Install_Tradestack_Server.exe
+  下载服务器端安装包：Install_Tradestack_Server.exe
 
 1. 双击运行安装程序，按照提示点击 [下一步]完成安装，打开服务器端程序。
 2. 在程序界面，点击：[ v ] - [ 安装 - 运行环境 ]，系统将自动初始化环境，耐心等待完成。
@@ -57,7 +59,7 @@ FLUSH PRIVILEGES;
 
 - **客户端部署**
 
-下载客户端安装包：Install_Tradestack_Client.exe
+  下载客户端安装包：Install_Tradestack_Client.exe
 
 1. 双击运行安装程序，按照提示 一直点击 [下一步]，直至安装完成。
 2. 安装完成后，打开客户端程序。
