@@ -1,4 +1,6 @@
-[![Build Status](http://www.tradestack.org)](http://www.tradestack.org)
+<p align="center">
+<img width="1440" height="280" alt="github_banner_dark" src="https://github.com/user-attachments/assets/9cdae3f8-50b2-4ae7-a8af-8bf82e440ab9" />
+</p>
 
 ## TRADESTACK - 交易栈
 
