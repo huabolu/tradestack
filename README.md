@@ -67,13 +67,20 @@ FLUSH PRIVILEGES;
 
 ## 联系我们
 
-We have a few channels for contact:
+Tradestack 是一款由个人独立开发的量化交易平台，目前**免费开放给大家使用**。  
+作为一个个人项目，它在功能与体验上仍有提升空间，我们也真诚希望更多朋友能参与到这个项目中来。  
 
-- [Discord](https://discord.gg/docusaurus):
-  - `#general` for those using Docusaurus.
-  - `#contributors` for those wanting to contribute to the Docusaurus core.
-- [@docusaurus](https://x.com/docusaurus) X
-- [GitHub Issues](https://github.com/facebook/docusaurus/issues)
+无论您是开发者、量化爱好者，还是只是单纯想要一个更好用的交易工具，都可以通过以下方式支持或参与：  
+- **提交反馈**：在使用过程中发现问题或有改进建议，欢迎提出；  
+- **贡献代码/文档**：任何 PR 或文档优化，都是对项目的巨大帮助；  
+- **分享传播**：如果觉得有价值，请推荐给更多需要的朋友；  
+- **交流探讨**：一起探索更高效、更稳健的量化交易实践。  
+
+您的每一份参与，都会让 Tradestack 变得更好。💡  
+
+> 文档中心：[docs.tradestack.org](http://www.tradestack.org/#/README)  
+> 微信联系：<img width="90" height="90" alt="wechat" src="https://github.com/user-attachments/assets/86a97b8b-eb91-49bc-9ea8-999c972f393e" />
+
 
 ## License
 
