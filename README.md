@@ -61,7 +61,7 @@ FLUSH PRIVILEGES;
 3. 安装完成后，打开客户端程序。
 4. 使用默认用户名和密码，即可进入软件主界面。
 
-[安装文档](http://www.tradestack.org/#/installation) 获取更多信息。
+[安装文档](http://www.tradestack.org:3000/#/installation) 获取更多信息。
 
 ## 联系我们
 
@@ -76,7 +76,7 @@ Tradestack 是一款由个人独立开发的量化交易平台，目前**免费�
 
 您的每一份参与，都会让 Tradestack 变得更好。💡  
 
-- 文档中心：[docs.tradestack.org](http://www.tradestack.org/#/README)。 
+- 文档中心：[docs.tradestack.org](http://www.tradestack.org:3000/#/README)。 
 - 微信联系：
 <img width="90" height="90" alt="wechat" src="https://github.com/user-attachments/assets/86a97b8b-eb91-49bc-9ea8-999c972f393e" />
 
