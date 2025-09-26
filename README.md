@@ -18,7 +18,8 @@
 
 > 策略规划与交易落地有机统一，覆盖从数据建模、投研分析、资金规划到策略组合和交易执行的完整流程，全流程自动化执行，人专注于决策和布局，具体事务交由机器完成。
 
- <img width="1440" height="810" alt="main_interface" src="https://github.com/user-attachments/assets/61d5b2c2-3b37-4600-9102-402674e35bc3" />
+<img width="2049" height="1294" alt="main_interface" src="https://github.com/user-attachments/assets/933a6ffc-5e66-41e6-860b-e75c28321c25" />
+
 
 点击这里 [完整文档](http://www.tradestack.org:3000)
 
