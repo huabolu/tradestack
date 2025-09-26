@@ -1,6 +1,5 @@
 <p align="center">
-<img width="1440" height="280" alt="github_banner_white" src="https://github.com/user-attachments/assets/36972a1b-1ca6-4454-bc45-ef0c04ccbee2" />
-
+<img src="https://github.com/user-attachments/assets/36972a1b-1ca6-4454-bc45-ef0c04ccbee2.png#gh-dark-mode-only">
 </p>
 
 ## Tradestack - 交易栈
