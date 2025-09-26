@@ -33,13 +33,13 @@
 mysql -u root -p
 
 # 创建数据库
-CREATE DATABASE tradestack_db DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+CREATE DATABASE tradestack DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
 
 # 创建专用用户（替换 your_password 为自定义密码）
-CREATE USER 'tradestack_user'@'%' IDENTIFIED BY 'your_password';
+CREATE USER 'tradeuser'@'%' IDENTIFIED BY 'your_password';
 
 # 授权用户访问新数据库
-GRANT ALL PRIVILEGES ON tradestack_db.* TO 'tradestack_user'@'%';
+GRANT ALL PRIVILEGES ON tradestack.* TO 'tradeuser'@'%';
 
 # 刷新权限
 FLUSH PRIVILEGES;
