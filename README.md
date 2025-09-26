@@ -78,8 +78,8 @@ Tradestack 是一款由个人独立开发的量化交易平台，目前**免费�
 
 您的每一份参与，都会让 Tradestack 变得更好。💡  
 
-> 文档中心：[docs.tradestack.org](http://www.tradestack.org/#/README)。 
-> 微信联系：
+- 文档中心：[docs.tradestack.org](http://www.tradestack.org/#/README)。 
+- 微信联系：
 <img width="90" height="90" alt="wechat" src="https://github.com/user-attachments/assets/86a97b8b-eb91-49bc-9ea8-999c972f393e" />
 
 
