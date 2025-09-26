@@ -57,13 +57,11 @@ FLUSH PRIVILEGES;
 
 - **客户端部署**
 
-1.下载客户端安装包：Install_Tradestack_Client.exe
+下载客户端安装包：Install_Tradestack_Client.exe
 
-2.双击运行安装程序，按照提示 一直点击 [下一步]，直至安装完成。
-
-3.安装完成后，打开客户端程序。
-
-4.使用默认用户名和密码，即可进入软件主界面。
+1. 双击运行安装程序，按照提示 一直点击 [下一步]，直至安装完成。
+2. 安装完成后，打开客户端程序。
+3. 使用默认用户名和密码，即可进入软件主界面。
 
 [Read the docs](https://docusaurus.io/docs/installation) for any further information.
 
