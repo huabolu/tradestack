@@ -8,7 +8,19 @@ Tradestack（交易栈）是一款原生且易用的量化交易平台，用户�
 
 想立即上手？ 马上阅读 [5分钟教程 ⏱️](./QuickStart.md)!
 
-交易栈的设计是：**让量化交易触手可及**，它既要简单易用，又有足够专业的功能和性能，帮助用户轻松驾驭各种策略交易。
+设计理念是：**让量化交易触手可及**。
+
+- **简约不简单，不变应万变**
+
+> 将复杂功能化繁为简，既功能强大又易上手，无需编程。通过组件化、标准化的设计，像搭积木一样构建可复用的操盘模块，加速量化模型投入实战。
+
+- **Localizable**
+
+> Docusaurus ships with [localization support](https://docusaurus.io/docs/i18n/introduction) via CrowdIn. Empower and grow your international community by translating your documentation.
+
+- **Customizable**
+
+> While Docusaurus ships with the key pages and sections you need to get started, including a home page, a docs section, a [blog](https://docusaurus.io/docs/blog), and additional support pages, it is also [customizable](https://docusaurus.io/docs/creating-pages) as well to ensure you have a site that is [uniquely yours](https://docusaurus.io/docs/styling-layout).
 
 
 
