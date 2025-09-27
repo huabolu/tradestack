@@ -4,21 +4,21 @@
 
 ## 概述
 
-Tradestack（交易栈）是一款原生且易用的量化交易平台，用户无需编程，就能方便地搭建量化模型，并应用到实盘交易中。
+Tradestack（交易栈）一款原生、易用且功能强大的量化交易平台，可快速部署您的策略并投入到实战。
 
 想立即上手？ 马上阅读 [5分钟教程 ⏱️](./QuickStart.md)!
 
-设计理念是：**让量化交易触手可及**。
+交易栈的设计理念是：**“让量化交易触手可及”**，降低量化交易使用门槛、将量化交易核心理念简单化，实用化。
 
 - **简约不简单，不变应万变**
 
-> 将复杂功能化繁为简，既功能强大又易上手，无需编程。通过组件化、标准化的设计，像搭积木一样构建可复用的操盘模块，加速量化模型投入实战。
+> 将复杂功能化繁为简，既功能强大又易上手，无需编程。通过组件化、标准化的设计，像搭积木一样构建可复用的操盘模块，加速量化模型投入实战。您可以
 
-- **Localizable**
+- **投研直达交易的完整闭环**
 
-> Docusaurus ships with [localization support](https://docusaurus.io/docs/i18n/introduction) via CrowdIn. Empower and grow your international community by translating your documentation.
+> 打造从数据建模、策略定义到交易执行的完整闭环, [localization support](https://docusaurus.io/docs/i18n/introduction) via CrowdIn. Empower and grow your international community by translating your documentation.
 
-- **Customizable**
+- **企业级量化架构**
 
 > While Docusaurus ships with the key pages and sections you need to get started, including a home page, a docs section, a [blog](https://docusaurus.io/docs/blog), and additional support pages, it is also [customizable](https://docusaurus.io/docs/creating-pages) as well to ensure you have a site that is [uniquely yours](https://docusaurus.io/docs/styling-layout).
 
