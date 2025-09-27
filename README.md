@@ -2,9 +2,9 @@
 <img width="1440" height="280" alt="github_banner_white" src="https://github.com/user-attachments/assets/d88f1137-7738-487f-8ddd-bf92ce749bf9" />
 </p>
 
-## Tradestack - 交易栈
+## 概述
 
-一款原生、易用且功能强大的量化交易平台，大幅提升投资赢率；
+Tradestack（交易栈）是一款原生、易用且功能强大的量化交易平台，它能够在无需编程的情况下，构建专业的量化模型，并投入到实战。
 
 - 简约而不简单，化繁为简，功能强大且易上手，无需编程，助力用户快速成为量化交易专家。
 
