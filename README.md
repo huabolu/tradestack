@@ -2,13 +2,11 @@
 <img width="1440" height="280" alt="github_banner_white" src="https://github.com/user-attachments/assets/d88f1137-7738-487f-8ddd-bf92ce749bf9" />
 </p>
 
-## Tradestack（交易栈） - **“让量化交易触手可及”**。
+## Tradestack - **“让量化交易触手可及”**
 
 Tradestack（交易栈）一款原生、易用且功能强大的量化交易平台，可快速部署您的策略并投入到实战。
 
 想立即上手？ 马上阅读 [5分钟教程 ⏱️](./QuickStart.md)!
-
-交易栈的设计理念是：**“让量化交易触手可及”**。
 
 - **简约不简单，不变应万变**
 
