@@ -18,6 +18,8 @@
 
 - 企业级量化架构，原生代码与微服务设计，结合全内存管理机制，实现微秒级响应和高吞吐量策略执行。
 
+- 用户无需编程即可快速构建策略、资金规则、动态调仓、因子模型和交易算法，上手即可使用。
+
 
 
 <img width="1366" height="862" alt="main_interface" src="https://github.com/user-attachments/assets/40f98e47-eb21-4931-843a-a2be5cebac35" />
