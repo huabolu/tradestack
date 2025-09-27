@@ -16,12 +16,11 @@ Tradestack（交易栈）一款原生、易用且功能强大的量化交易平�
 
 - **投研直达交易的完整闭环**
 
-> 打造从数据建模、策略定义到交易执行的完整闭环, [localization support](https://docusaurus.io/docs/i18n/introduction) via CrowdIn. Empower and grow your international community by translating your documentation.
+> 打造从数据建模、策略定义到交易执行的完整闭环,
 
 - **企业级量化架构**
 
-> While Docusaurus ships with the key pages and sections you need to get started, including a home page, a docs section, a [blog](https://docusaurus.io/docs/blog), and additional support pages, it is also [customizable](https://docusaurus.io/docs/creating-pages) as well to ensure you have a site that is [uniquely yours](https://docusaurus.io/docs/styling-layout).
-
+> 
 
 
 
