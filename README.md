@@ -14,7 +14,7 @@ Tradestack（交易栈）一款原生、易用且功能强大的量化交易平�
 
 - **投研直达交易的完整闭环**
 
-> 打造从数据建模、策略定义到交易执行的完整闭环，借助[模型对象管理](./StrategyDefinition.md)工具来进行数据建模，通过[交易规则](./StrategyDefinition.md)对交易账户进行全局性的交易规则和风险的控制；通过[因子库设计](./StrategyDefinition.md)来设计指数或股票对应的买入方向和卖出方向的因子库；通过[自选股](./StrategyDefinition.md)来设计策略框架内容，最后[启动因子策略](./StrategyDefinition.md)来进行交易。
+> 打造从数据建模、策略定义到交易执行的完整闭环，借助[模型对象管理](./StrategyDefinition.md)工具来进行数据建模，通过[交易规则](./StrategyDefinition.md)对账户进行全局性的规则和风险的控制；通过[因子库设计](./StrategyDefinition.md)来设计指数或股票对应的买入方向和卖出方向的因子库；通过[自选股](./StrategyDefinition.md)来动态生成股票池，最后[启动因子策略](./StrategyDefinition.md)来进行交易。
 
 - **企业级量化架构**
 
