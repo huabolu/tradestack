@@ -117,15 +117,6 @@ flowchart TD
 
     G --> H
     G --> I
-
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style B fill:#9cf,stroke:#333,stroke-width:1px
-    style C fill:#9cf,stroke:#333,stroke-width:1px
-    style E fill:#fc9,stroke:#333,stroke-width:1px
-    style F fill:#cfc,stroke:#333,stroke-width:1px
-    style G fill:#f99,stroke:#333,stroke-width:1px
-    style H fill:#ccc,stroke:#333,stroke-width:1px
-    style I fill:#ccc,stroke:#333,stroke-width:1px
 ```
 
 ## 社区
