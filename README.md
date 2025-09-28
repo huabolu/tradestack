@@ -61,8 +61,7 @@
 
 ## 联系我们 
 
-交易栈（Tradestack）作为一款独立开发者的软件，**社区版永久免费开放使用**。欢迎您通过提交反馈、贡献代码或文档的方式支持或参与：  
-您的每一份参与，都会让 Tradestack（交易栈） 变得更好。
+交易栈（Tradestack）作为一款独立开发者的软件，**社区版永久免费开放使用**。欢迎您通过提交反馈、贡献代码或文档的方式支持或参与；您的每一份参与，都会让交易栈（Tradestack） 变得更好。
 
 - 微信联系：
   <img width="90" height="90" alt="wechat" src="https://github.com/user-attachments/assets/86a97b8b-eb91-49bc-9ea8-999c972f393e" />
