@@ -75,11 +75,9 @@
 - 支持哪些数据库？
   > 系统内置数据库驱动，无需额外开发，即可即插即用地支持 Oracle、SQL Server、MySQL、PostgreSQL、MariaDB 等主流数据库。
 
-## 捐赠
+## 关于交易栈 
 
-## 联系我们 
-
-交易栈（Tradestack）作为一款独立开发者的软件，**社区版永久免费开放使用**。欢迎您通过提交反馈、贡献代码或文档的方式支持或参与；您的每一份参与，都会让交易栈（Tradestack） 变得更好。
+交易栈（Tradestack）是一款独立开发者打造的量化交易平台，社区版永久免费开放使用。欢迎通过提交反馈、贡献代码或完善文档的方式参与社区建设；每一份参与，都将推动交易栈（Tradestack）不断优化与成长，让量化交易体验更加卓越。
 
 - 微信联系：
   <img width="90" height="90" alt="wechat" src="https://github.com/user-attachments/assets/86a97b8b-eb91-49bc-9ea8-999c972f393e" />
