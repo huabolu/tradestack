@@ -28,7 +28,7 @@ Tradestack（交易栈）一款原生、易用且功能强大的量化交易平�
 
 ## 逻辑概览
 
-<img width="1020" height="609" alt="tactics" src="https://github.com/user-attachments/assets/b9286a60-c674-41d3-87cb-6abf9cd8f001" />
+<img  alt="tactics" src="./arch_diagram.svg" />
 
 
 ## 使用场景
