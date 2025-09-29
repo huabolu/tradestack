@@ -74,9 +74,9 @@
 交易栈（Tradestack）是一款独立开发者打造的量化交易平台，社区版永久免费开放使用。
 欢迎志同道合的朋友一起优化和完善交易栈，都能让量化交易体验更好。
 
-- 微信联系：
+- 微信联系:  
   <img width="90" height="90" alt="wechat" src="https://github.com/user-attachments/assets/86a97b8b-eb91-49bc-9ea8-999c972f393e" />
-- 文档中心：[docs.tradestack.org](http://www.tradestack.org:3000/#/README)
+- 文档中心: [docs.tradestack.org](http://www.tradestack.org:3000/#/README)
 
 ## License
 
