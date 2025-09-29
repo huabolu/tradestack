@@ -29,7 +29,7 @@
 ## 系统架构
 
 <p align="left">
-   <img  src="./images/arch_diagram.svg"/>
+   <img  src="./images/arch_diagram.svg"/ style="width:90%">
 </p>
     
 
