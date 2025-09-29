@@ -28,7 +28,7 @@
 
 ## 系统架构
 
-<p align="center">
+<p align="left">
    <img  src="./images/arch_diagram.svg" style="width:80%"/>
 </p>
     
