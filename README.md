@@ -23,7 +23,7 @@
 ## 系统架构
 
 <p align="left">
-   <img  src="./images/tactics_run.PNG"/ style="width:90%">
+   <img  src="./images/arch_diagram.svg"/ style="width:90%">
 </p>
 
  💡 如果您觉得操作繁琐，也可以借助 [ 策略定义助手 ](./StrategyDefinition.md)  一键生成完整的因子策略。
