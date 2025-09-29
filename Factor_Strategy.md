@@ -11,5 +11,5 @@
 具体功能包括：策略买卖方向选择、策略参数设置、交易账户实时动态监控、策略执行状态跟踪，以及完整的执行日志记录。
 
 <p align="left">
-   <img  src="./images/launch_factor_strategy.png"/ style="width:80%">
+   <img  src="./images/launch_factor_strategy.png"/ style="max-width:none;">
 </p>
