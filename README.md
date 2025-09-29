@@ -28,7 +28,7 @@
 
 ## 系统架构
 
-<img  alt="tactics" src="./images/arch_diagram.svg" />
+<img  alt="tactics" src="./images/arch_diagram.svg" style="width:50%"/>
 
 - **第一步：建立交易账户**
   > 通过 [交易账户管理](./StrategyDefinition.md) 创建或关联证券账户，作为策略执行的载体。
