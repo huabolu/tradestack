@@ -28,9 +28,7 @@
 
 ## 系统架构
 
-<p align="left">
-   <img  src="./images/arch_diagram.svg" style="width:100%"/>
-</p>
+
     
 
 - **第一步：建立交易账户**
