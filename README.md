@@ -76,7 +76,12 @@ FLUSH PRIVILEGES;
 - [ 交易规则设定 ](./QuickStart.md)
 - [ 自选股 ](./QuickStart.md)
 - [ 因子库设计 ](./QuickStart.md)
-- 
+- [ 新建模型分析 ](./QuickStart.md)
+- [ 选股模型 ](./QuickStart.md)
+- [ 模型对象管理 ](./QuickStart.md)
+- [ 因子数据源 ](./QuickStart.md)
+- [ 高级托管任务 ](./QuickStart.md)
+- [ 任务与计划 ](./QuickStart.md)
 
 ## 常见问题
 - 需要学习编程语言吗？
