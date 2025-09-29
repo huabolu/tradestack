@@ -25,7 +25,8 @@
 <p align="left">
    <img  src="./images/arch_diagram.svg"/ style="width:90%">
 </p>
- 💡 如果您觉得操作繁琐，也可以借助 [ 策略定义助手 ](./StrategyDefinition.md)  一键生成完整的因子策略。系统在首次登录时，会自动创建一项名为 “行稳致远步步高升1号” 的策略，用户可对其进行修改，或直接投入实际交易。
+
+ 💡 如果您觉得操作繁琐，也可以借助 [ 策略定义助手 ](./StrategyDefinition.md)  一键生成完整的因子策略。
 
 - **第一步：建立交易账户**
   > 通过 [交易账户管理](./StrategyDefinition.md) 创建或关联证券账户，作为策略执行的载体。
