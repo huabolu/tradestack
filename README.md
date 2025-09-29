@@ -70,8 +70,8 @@ FLUSH PRIVILEGES;
 4. 重新启动客户端，即可正常登录。
    
 ## 主要功能
-- [ 策略定义 ]](./QuickStart.md)
-- [ 交易规则设定 ]](./QuickStart.md)
+- [ 策略定义 ](./QuickStart.md)
+- [ 交易规则设定 ](./QuickStart.md)
 
 ## 常见问题
 - 需要学习编程语言吗？
