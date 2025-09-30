@@ -15,9 +15,9 @@
    <img  src="./images/launch_factor_strategy_sell.png"/ style="max-width:none;">
 </p>
 
-## 🛠️ 具体功能
+## 🛠️ 具体功能介绍
 
-- **策略的买卖方向与选择**：
+**策略的买卖方向与选择**：
  <p align="left">
     <img  src="./images/launch_factor_strategy_direction.png"/ style="max-width:none;">
  </p>
