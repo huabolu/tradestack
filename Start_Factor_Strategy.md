@@ -14,7 +14,7 @@
    <img  src="./images/launch_factor_strategy_buy.png"/ style="max-width:none;">
    <img  src="./images/launch_factor_strategy_sell.png"/ style="max-width:none;">
 </p>
-
+> 以因子为核心的策略执行机制，综合交易规则、交易逻辑、买卖方向因子库、指数关联及股票池等动态要素，形成完整的策略执行体系。
 ## 🛠️ 具体功能介绍
 
 **1. 策略的买卖方向与选择**
@@ -54,7 +54,7 @@
     <img  src="./images/launch_factor_strategy_fund.png"/ style="max-width:none;">
  </p>
 
-- **账户名称**：当前交易的账户名称，对应券商开户账号；交易账户在交易规则中维护；账户名称前的编号为唯一标识；点击可直接查看交易账户的持仓情况。
+- **账户名称**：当前交易的账户名称，对应券商开户账号；交易账户在交易规则中维护；账户名称前的编号为唯一标识；点击 <img  src="./images/launch_factor_strategy_find.png"/ style="max-width:none;"> 可直接查看交易账户的持仓情况。
 
 - **总资产**：当前账户的总资产，系统根据实时行情动态生成。
 
