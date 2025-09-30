@@ -73,6 +73,9 @@ FLUSH PRIVILEGES;
 **量化交易**
 - [ 启动因子策略 ](./Factor_Strategy.md)
 - [ 启动网格策略 ](./QuickStart.md)
+- [ 交易账户管理 ](./QuickStart.md)
+- [ 持仓信息 ](./QuickStart.md)
+- [ 交易评估 ](./QuickStart.md)
 
 **策略框架**
 - [ 策略定义 ](./QuickStart.md)
@@ -82,7 +85,7 @@ FLUSH PRIVILEGES;
 
 **数据建模**
 - [ 新建模型分析 ](./QuickStart.md)
-- [ 打开私有模型 ](./QuickStart.md)- 
+- [ 打开私有模型 ](./QuickStart.md)
 - [ 选股模型 ](./QuickStart.md)
 - [ 模型对象管理 ](./QuickStart.md)
 
@@ -90,7 +93,7 @@ FLUSH PRIVILEGES;
 - [ 因子数据源 ](./QuickStart.md)
 - [ 高级托管任务 ](./QuickStart.md)
 - [ 任务与计划 ](./QuickStart.md)
-- [ 系统管理 ](./QuickStart.md)- 
+- [ 系统管理 ](./QuickStart.md)
 
 ## 💡 常见问题
 - 需要学习编程语言吗？
