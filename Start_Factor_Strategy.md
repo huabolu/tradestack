@@ -14,7 +14,7 @@
    <img  src="./images/launch_factor_strategy_buy.png"/ style="max-width:none;">
    <img  src="./images/launch_factor_strategy_sell.png"/ style="max-width:none;">
 </p>
-> 以因子为核心的策略执行机制，综合交易规则、交易逻辑、买卖方向因子库、指数关联及股票池等动态要素，形成完整的策略执行体系。
+
 ## 🛠️ 具体功能介绍
 
 **1. 策略的买卖方向与选择**
@@ -87,8 +87,8 @@
 - **执行轮数**：表示当前策略运算的轮次，一轮包括规则的运算和交易的完成。  
 - **规则开关**：用于控制交易行为，在交易规则中设置，参数可即时生效，无需停止运算。  
 - **执行规则**：展示当前策略启用的交易规则信息。  
-- **自选股池**：策略启用的股票池，点击 <img  src="./images/launch_factor_strategy_find.png"/ style="max-width:none;">即可直接定位到该股票池。  
-- **执行因子**：策略启用的因子库，点击 <img  src="./images/launch_factor_strategy_find.png"/ style="max-width:none;">即可直接定位到该因子库。  
+- **自选股池**：策略启用的股票池，点击 <img src="./images/launch_factor_strategy_find.png" style="max-width:none;" /> 即可直接定位到该股票池。  
+- **执行因子**：策略启用的因子库，点击 <img src="./images/launch_factor_strategy_find.png" style="max-width:none;" /> 即可直接定位到该因子库。  
 - **信息提示**：展示策略执行过程中的重要提示信息，包括当前基金所处的交易状态；系统目前已定义了几十种交易状态，以满足不同交易场景的需求。  
  
 **4. 执行日志**
