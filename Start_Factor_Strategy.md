@@ -17,7 +17,7 @@
 
 ## 🛠️ 具体功能介绍
 
-**策略的买卖方向与选择**：
+**1. 策略的买卖方向与选择**：
  <p align="left">
     <img  src="./images/launch_factor_strategy_direction.png"/ style="max-width:none;">
  </p>
@@ -49,7 +49,7 @@
 
 - **停止 - 自动交易**：策略将立即停止运算和交易。
 
-**资金及仓位情况**
+**2. 资金及仓位情况**
 
  <p align="left">
     <img  src="./images/launch_factor_strategy_fund.png"/ style="max-width:none;">
@@ -81,7 +81,7 @@
 > 当策略处于 **运行期间**，系统将动态显示当前交易账户的总资产、市值、账户余额及动态余额情况，并展示根据交易规则设定的目标仓位与实际仓位等信息。  
 
 
-**执行状态**
+**3. 执行状态**
 
-**执行日志**
+**4. 执行日志**
 
