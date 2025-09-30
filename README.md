@@ -71,29 +71,29 @@ FLUSH PRIVILEGES;
    
 ## 🛠️ 主要功能
 **量化交易**
-- [ 启动因子策略 ](./Factor_Strategy.md)
-- [ 启动网格策略 ](./QuickStart.md)
-- [ 交易账户管理 ](./QuickStart.md)
-- [ 持仓信息 ](./QuickStart.md)
-- [ 交易评估 ](./QuickStart.md)
+- [ 启动因子策略 ](./Start_Factor_Strategy.md)
+- [ 启动网格策略 ](./Start_Grid_Strategy.md)
+- [ 交易账户管理 ](./Trading_Account_Management.md)
+- [ 持仓信息 ](./Position_Information.md)
+- [ 交易评估 ](./Trading_Evaluation.md)
 
 **策略框架**
-- [ 策略定义 ](./QuickStart.md)
-- [ 交易规则设定 ](./QuickStart.md)
-- [ 自选股 ](./QuickStart.md)
-- [ 因子库设计 ](./QuickStart.md)
+- [ 策略定义 ](./Strategy_Definition.md)
+- [ 交易规则设定 ](./Trading_Rules_Setup.md)
+- [ 自选股 ](./Custom_Stocks.md)
+- [ 因子库设计 ](./Factor_Library_Design.md)
 
 **数据建模**
-- [ 新建模型分析 ](./QuickStart.md)
-- [ 打开私有模型 ](./QuickStart.md)
-- [ 选股模型 ](./QuickStart.md)
-- [ 模型对象管理 ](./QuickStart.md)
+- [ 新建模型分析 ](./New_Model_Analysis.md)
+- [ 打开私有模型 ](./Open_Private_Model.md)
+- [ 选股模型 ](./Stock_Selection_Model.md)
+- [ 模型对象管理 ](./Model_Object_Management.md)
 
 **基础架构**
-- [ 因子数据源 ](./QuickStart.md)
-- [ 高级托管任务 ](./QuickStart.md)
-- [ 任务与计划 ](./QuickStart.md)
-- [ 系统管理 ](./QuickStart.md)
+- [ 因子数据源 ](./Factor_Data_Source.md)
+- [ 高级托管任务 ](./Advanced_Managed_Tasks.md)
+- [ 任务与计划 ](./Tasks_And_Plans.md)
+- [ 系统管理 ](./System_Management.md)
 
 ## 💡 常见问题
 - 需要学习编程语言吗？
