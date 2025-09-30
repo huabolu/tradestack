@@ -13,6 +13,10 @@
 
 ## 🛠️ 具体功能
 
+<p align="left">
+   <img  src="./images/launch_factor_strategy_buy.png"/ style="width:90%">
+   <img  src="./images/launch_factor_strategy_sell.png"/ style="width:90%">
+</p>
 
 
 > **因子策略**：以因子为核心的策略执行机制，综合交易规则、交易逻辑、买卖方向因子库、指数关联及股票池等动态要素，形成完整的策略执行体系。
