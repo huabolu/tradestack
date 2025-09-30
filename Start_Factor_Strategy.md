@@ -14,8 +14,8 @@
 ## 🛠️ 具体功能
 
 <p align="left">
-   <img  src="./images/launch_factor_strategy_buy.png"/ style="width:90%">
-   <img  src="./images/launch_factor_strategy_sell.png"/ style="width:90%">
+   <img  src="./images/launch_factor_strategy_buy.png"/ style="max-width:none;">
+   <img  src="./images/launch_factor_strategy_sell.png"/ style="max-width:none;">
 </p>
 
 
