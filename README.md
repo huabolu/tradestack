@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1440" height="280" alt="github_banner_white" src="https://github.com/user-attachments/assets/d88f1137-7738-487f-8ddd-bf92ce749bf9" />
+<img src="./images/main_banner.png" style="max-width:none;" />
 </p>
 
 ## 💻 交易栈 - 让量化交易触手可及
@@ -19,7 +19,7 @@
   > 既适用于个人与团队，也能作为企业级量化交易的基础架构；高性能核心、多数据库支持、模块化扩展与高可靠性托管，全面满足企业级需求。 
 
  <p align="Center">
-    <img  src="./images/main_interface.png"/ style="max-width:none;">
+    <img  src="./images/main_interface.png" style="max-width:none;"/>
  </p>
  
 ## 🚀 快速部署
@@ -123,5 +123,5 @@ FLUSH PRIVILEGES;
 欢迎有兴趣的伙伴一起优化和完善交易栈，让交易栈体验更好。
 
 - 微信联系:  
-  <img width="90" height="90" alt="wechat" src="https://github.com/user-attachments/assets/86a97b8b-eb91-49bc-9ea8-999c972f393e" />
+  <img src="./images/wechat.png" style="max-width:none;" />
 - 文档中心: [docs.tradestack.org](http://www.tradestack.org:3000/#/README)
