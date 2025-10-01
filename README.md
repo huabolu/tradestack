@@ -19,7 +19,7 @@
   > 既适用于个人与团队，也能作为企业级量化交易的基础架构；高性能核心、多数据库支持、模块化扩展与高可靠性托管，全面满足企业级需求。 
 
  <p align="Center">
-    <img  src="./images/launch_factor_strategy_direction.png"/ style="max-width:none;">
+    <img  src="./images/main_interface.png"/ style="max-width:none;">
  </p>
  
 ## 🚀 快速部署
