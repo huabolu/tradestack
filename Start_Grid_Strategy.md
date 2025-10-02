@@ -25,8 +25,14 @@
   - 网格策略：策略的运算和交易决策主要以**价格信息**为核心，包括买卖价格批次、基金规则、交易逻辑、指数关联以及股票池等，重点在“价格信号驱动”。  
 
 ## 🛠️ 网格策略的建立  
-1. 点击工具栏的 <img src="./images/strategy_plus.png" style="max-width:none;" /> ，启动 [ 策略定义助手 ](./Strategy_Definition_Helper.md) 。
-2. 
+1. 点击工具栏的 <img src="./images/strategy_plus.png" style="max-width:none;" /> ，打开 [ 策略定义助手 ](./Strategy_Definition_Helper.md) ；
+2. 在左边界面中，依次点击：[ 用户自定义 ] -> [ 网格策略 | 定义一对买卖方向的网格策略 ] -> [ 创建新的资金账户 ] ；
+3. 在右边界面中，在 [ 选择股票池 ]中选择股票池，这里我们选择 [ 16-特色推荐型股票池 ] -> [ 400-优选股票池] ；
+4. 勾选几只股票，然后点击 [ 创建策略 ]
+  <p align="left">
+    <img  src="./images/strategy_definition_helper_grid.png"/ style="max-width:none;">
+ </p>
+6. 恭喜，网格策略创建成功！
 
 <p align="left">
    <img  src="./images/launch_grid_strategy_buy.png"/ style="max-width:none;">
