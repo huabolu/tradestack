@@ -16,7 +16,13 @@
 </p>
 
 ## 📋 操作步骤
-
+1. 点击工具栏的 <img src="./images/strategy_plus.png" style="max-width:none;" /> ，打开 [ 策略定义助手 ](./Strategy_Definition_Helper.md) ；
+2. 在左边界面中，[ 从模板中创建 ] -> [ 创建新的资金账户 ] ；
+3. 在右边界面中，在 [ 平台共享策略 ] -> [ 稳健型 ]  -> [ 行稳致远步步高升] 模板；
+4. 点击 [ 创建策略 ]
+  <p align="left">
+    <img  src="./images/strategy_definition_helper_factor·.png"/ style="max-width:none;">
+ </p>
 ## 💡 补充说明
 
 **1. 策略的买卖方向与选择**
