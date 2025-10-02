@@ -32,7 +32,8 @@
   <p align="left">
     <img  src="./images/strategy_definition_helper_grid.png"/ style="max-width:none;">
  </p>
-6. 恭喜，网格策略创建成功！
+5. 恭喜，网格策略创建成功！系统跳到 [ 策略定义 ](./Strategy_Definition.md) 界面，可见刚刚定义的网格策略。
+
 
 <p align="left">
    <img  src="./images/launch_grid_strategy_buy.png"/ style="max-width:none;">
@@ -50,7 +51,7 @@
 
 - **多实例启动**：如需同时运行多个策略，可开启多个因子策略窗口。每个实例由独立线程处理，互不干扰。
 
-- **策略列表**：下拉列表框显示所属人员可执行的策略。策略列表由 [ 策略定义 ](./Strategy_Definition_Helper.md) 中定义。
+- **策略列表**：下拉列表框显示所属人员可执行的策略。策略列表由 [ 策略定义 ](./Strategy_Definition.md) 中定义。
 
 - **持续运行当前策略**：策略启动后将持续运行，实时监控行情与策略条件是否匹配，一旦匹配即自动下单，直至人工停止。  
 
