@@ -20,7 +20,7 @@
 
 <p align="center">系统主界面</p>
  <p align="Center">
-    <img  src="./images/main_interface.png" style="width:80%;"/>
+    <img  src="./images/main_interface.png" style="width:90%;"/>
  </p>
  
 ## 🚀 快速部署
