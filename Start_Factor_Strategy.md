@@ -20,8 +20,8 @@
 2. 在左边界面中，[ 从模板中创建 ] -> [ 创建新的资金账户 ] ；
 3. 在右边界面中，在 [ 平台共享策略 ] -> [ 稳健型 ]  -> [ 行稳致远步步高升] 模板；
 4. 点击 [ 创建策略 ]
-  <p align="left">
-    <img  src="./images/strategy_definition_helper_factor.png" style="width:100%;"/>
+  <p align="Center">
+    <img  src="./images/strategy_definition_helper_factor.png"/>
  </p>
 ## 💡 补充说明
 
