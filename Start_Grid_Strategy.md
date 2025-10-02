@@ -24,15 +24,16 @@
   - 因子策略：策略的运算和交易决策主要基于**因子库**，通过不同因子组合、规则和指数关联来执行买卖操作，重点在“因子信号驱动”。  
   - 网格策略：策略的运算和交易决策主要以**价格信息**为核心，包括买卖价格批次、基金规则、交易逻辑、指数关联以及股票池等，重点在“价格信号驱动”。  
 
-## 👉 网格策略的建立  
-1. 点击工具栏的 " + " ，启动 [ 策略定义助手 ]
+## 🛠️ 网格策略的建立  
+1. 点击工具栏的 <img src="./images/strategy_plus.png" style="max-width:none;" /> ，启动 [ 策略定义助手 ](./Strategy_Definition_Helper.md) 。
+2. 
 
 <p align="left">
    <img  src="./images/launch_grid_strategy_buy.png"/ style="max-width:none;">
    <img  src="./images/launch_grid_strategy_sell.png"/ style="max-width:none;">
 </p>
 
-## 🛠️ 具体功能介绍
+## 📌 具体功能介绍
 
 **1. 策略的买卖方向与选择**
  <p align="left">
