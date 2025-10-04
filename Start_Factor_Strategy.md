@@ -4,8 +4,7 @@
 - **全自动量化交易载体**：无论是投资思路还是资金规划，都能在因子策略里自动落地执行。  
 - **动态更新规则**：策略运行中也能随时调整，比如股票池、仓位、因子参数和指数联动，就像“高速路上换轮胎”，不中断运行。
 - **提供与实盘一致的仿真交易环境**：使用与实盘一致的策略组合、因子库和交易模型，帮助用户在安全环境中提前测试和验证模型的有效性。
-- **远程操作**：用手机就能设置和更新策略，随时随地掌控交易进程。  
-
+- **远程操作**：用手机就能设置和更新策略，随时随地掌控交易进程。
   <p align="Left">
    <img  src="./images/launch_factor_strategy_buy.png"/ style="max-width:none;">
    <img  src="./images/launch_factor_strategy_sell.png"/ style="max-width:none;">
@@ -16,9 +15,10 @@
 2. 在左边界面中，[ 从模板中创建 ] -> [ 创建新的资金账户 ] ；
 3. 在右边界面中，在 [ 平台共享策略 ] -> [ 稳健型 ]  -> [ 行稳致远步步高升] 模板；
 4. 点击 [ 创建策略 ] ;
-   <p align="Left">
+<p align="Left">
     <img  src="./images/strategy_definition_helper_factor.png"/>
-    </p>   
+    </p>  
+ 
 6. 恭喜，因子策略创建成功！系统跳到 [ 策略定义 ](./Strategy_Definition.md) 界面，可见刚刚定义的因子策略。
 7. 点击菜单  <img src="./images/main_menu.png" style="max-width:none;" /> -> [ 启动因子策略 ] ，则打开策略执行界面。
 
