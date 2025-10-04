@@ -26,14 +26,12 @@
 6. 恭喜，因子策略创建成功！系统跳到 [ 策略定义 ](./Strategy_Definition.md) 界面，可见刚刚定义的因子策略。
 7. 点击菜单  <img src="./images/main_menu.png" style="max-width:none;" /> -> [ 启动因子策略 ] ，则打开策略执行界面。
 
-
-
 ## 💡 补充说明
 
 **1. 策略的买卖方向与选择**
- <p align="left">
+   <p align="left">
     <img  src="./images/launch_factor_strategy_direction.png"/ style="max-width:none;">
- </p>
+   </p>
 
 - **隔离的买卖实例**：因子策略将买入与卖出分为独立实例。比如勾选“买入方向”后，下拉框仅显示对应的买入策略。
 
