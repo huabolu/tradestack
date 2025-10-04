@@ -15,15 +15,17 @@
   > 从交易账户管理、交易规则设定、股票池与因子库设计，到数据建模、策略组装和策略执行，高度集成，覆盖量化交易全流程。
 
 - **全面支撑的企业级量化架构**
-
   > 既适用于个人与团队，也能作为企业级量化交易的基础架构；高性能核心、多数据库支持、模块化扩展与高可靠性托管，全面满足企业级需求。 
+  <p align="Center">
+    <img  src="./images/main_interface.png" style="width:95%;"/>
+ </p>
+
+  
 
 <p align="center"><b>系统主界面</b></p>
 
 
- <p align="Center">
-    <img  src="./images/main_interface.png" style="width:95%;"/>
- </p>
+
  
 ## 🚀 快速部署
 
