@@ -15,9 +15,10 @@
 2. 在左边界面中，[ 从模板中创建 ] -> [ 创建新的资金账户 ] ；
 3. 在右边界面中，在 [ 平台共享策略 ] -> [ 稳健型 ]  -> [ 行稳致远步步高升] 模板；
 4. 点击 [ 创建策略 ] ;
-<p align="Left">
+   <p align="Left">
     <img  src="./images/strategy_definition_helper_factor.png"/>
     </p>  
+
  
 6. 恭喜，因子策略创建成功！系统跳到 [ 策略定义 ](./Strategy_Definition.md) 界面，可见刚刚定义的因子策略。
 7. 点击菜单  <img src="./images/main_menu.png" style="max-width:none;" /> -> [ 启动因子策略 ] ，则打开策略执行界面。
