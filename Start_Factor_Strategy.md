@@ -10,7 +10,7 @@
 
 - **远程操作**：用手机就能设置和更新策略，随时随地掌控交易进程。  
 
-<p align="Center">
+<p align="Left">
    <img  src="./images/launch_factor_strategy_buy.png"/ style="max-width:none;">
    <img  src="./images/launch_factor_strategy_sell.png"/ style="max-width:none;">
 </p>
