@@ -18,10 +18,8 @@
    <p align="Left">
     <img  src="./images/strategy_definition_helper_factor.png"/>
     </p>  
-
- 
-6. 恭喜，因子策略创建成功！系统跳到 [ 策略定义 ](./Strategy_Definition.md) 界面，可见刚刚定义的因子策略。
-7. 点击菜单  <img src="./images/main_menu.png" style="max-width:none;" /> -> [ 启动因子策略 ] ，则打开策略执行界面。
+5. 恭喜，因子策略创建成功！系统跳到 [ 策略定义 ](./Strategy_Definition.md) 界面，可见刚刚定义的因子策略。
+6. 点击菜单  <img src="./images/main_menu.png" style="max-width:none;" /> -> [ 启动因子策略 ] ，则打开策略执行界面。
 
 ## 💡 补充说明
 
