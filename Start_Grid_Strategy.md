@@ -1,7 +1,6 @@
 ## 🚀 启动网格策略
 
 - **定义** ：以价格为导向的策略执行机制，涵盖基金规则、交易逻辑、买卖方向因子库、买卖价格批次、指数关联以及股票池等动态组合而成的综合策略执行体。
-
 - **与因子策略的区别**：
   - 因子策略：策略的运算和交易决策主要基于**因子库**，通过不同因子组合、规则和指数关联来执行买卖操作，重点在“因子信号驱动”。  
   - 网格策略：策略的运算和交易决策主要以**价格信息**为核心，包括买卖价格批次、基金规则、交易逻辑、指数关联以及股票池等，重点在“价格信号驱动”。    
@@ -11,7 +10,12 @@
   - 可分批指定卖出的价格和股数。  
 - **网格交易模式** ：提供更灵活的 **T+0 交易控制**。
 - **支持忽略因子条件** ：交易门槛更低，无需编写专门的因子，仅通过设定批次价格委托区间即可交易。
-- **价格因子和指标因子共存** ：可选指标因子，在同时满足指标因子和价格因子的情况下进行交易，实现灵活组合。  
+- **价格因子和指标因子共存** ：可选指标因子，在同时满足指标因子和价格因子的情况下进行交易，实现灵活组合。
+  <p align="left">
+     <img  src="./images/launch_grid_strategy_buy.png"/ style="max-width:none;">
+     <img  src="./images/launch_grid_strategy_sell.png"/ style="max-width:none;">
+</p>
+
 
 ## 🛠️ 网格策略的建立  
 1. 点击工具栏的 <img src="./images/strategy_plus.png" style="max-width:none;" /> ，打开 [ 策略定义助手 ](./Strategy_Definition_Helper.md) ；
@@ -23,12 +27,9 @@
     <img  src="./images/strategy_definition_helper_grid.png"/ style="max-width:none;">
  </p>
 6. 恭喜，网格策略创建成功！系统跳到 [ 策略定义 ](./Strategy_Definition.md) 界面，可见刚刚定义的网格策略。
-   <p align="left">
-     <img  src="./images/launch_grid_strategy_buy.png"/ style="max-width:none;">
-     <img  src="./images/launch_grid_strategy_sell.png"/ style="max-width:none;">
-  </p>
 
-## 📌 具体功能介绍
+
+## 📌 详细介绍
 
 **1. 策略的买卖方向与选择**
  <p align="left">
