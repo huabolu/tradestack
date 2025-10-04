@@ -10,17 +10,17 @@
 
 - **远程操作**：用手机就能设置和更新策略，随时随地掌控交易进程。  
 
-<p align="Left">
+  <p align="Left">
    <img  src="./images/launch_factor_strategy_buy.png"/ style="max-width:none;">
    <img  src="./images/launch_factor_strategy_sell.png"/ style="max-width:none;">
-</p>
+  </p>
 
 ## 📋 操作步骤
 1. 点击工具栏的 <img src="./images/strategy_plus.png" style="max-width:none;" /> ，打开 [ 策略定义助手 ](./Strategy_Definition_Helper.md) ；
 2. 在左边界面中，[ 从模板中创建 ] -> [ 创建新的资金账户 ] ；
 3. 在右边界面中，在 [ 平台共享策略 ] -> [ 稳健型 ]  -> [ 行稳致远步步高升] 模板；
 4. 点击 [ 创建策略 ] ;
- <p align="Left">
+   <p align="Left">
     <img  src="./images/strategy_definition_helper_factor.png"/>
     </p>   
 6. 恭喜，因子策略创建成功！系统跳到 [ 策略定义 ](./Strategy_Definition.md) 界面，可见刚刚定义的因子策略。
