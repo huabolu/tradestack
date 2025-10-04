@@ -29,7 +29,8 @@
 ## 💡 补充说明
 
 **1. 策略的买卖方向与选择**
-     <p align="left">
+
+   <p align="left">
     <img  src="./images/launch_factor_strategy_direction.png"/>
    </p>
 
