@@ -32,13 +32,7 @@
     <p align="left">
     <img  src="./images/launch_factor_strategy_direction.png"/>
    </p>
-2. 
-
-
-
 - **隔离的买卖实例**：因子策略将买入与卖出分为独立实例。比如勾选“买入方向”后，下拉框仅显示对应的买入策略。
-
-
 
 - **多实例启动**：如需同时运行多个策略，可开启多个因子策略窗口。每个实例由独立线程处理，互不干扰。
 
@@ -65,7 +59,8 @@
 
 - **停止 - 自动交易**：策略将立即停止运算和交易。
   
-**2. 资金及仓位情况**
+
+2. 资金及仓位情况
  <p align="left">
     <img  src="./images/launch_factor_strategy_fund.png"/ style="max-width:none;">
  </p>
@@ -94,9 +89,9 @@
 - **目标仓位**：当前交易账户预设的目标仓位。
 
 > 当策略处于 **运行期间**，系统将动态显示当前交易账户的总资产、市值、账户余额及动态余额情况，并展示根据交易规则设定的目标仓位与实际仓位等信息。
-
-**3. 执行状态**
- <p align="left">
+   
+3. 执行状态
+    <p align="left">
     <img  src="./images/launch_factor_strategy_action.png"/ style="max-width:none;">
  </p>
  
@@ -107,7 +102,7 @@
 - **执行因子**：策略启用的因子库，点击 <img src="./images/launch_factor_strategy_find.png" style="max-width:none;" /> 即可直接定位到该因子库。  
 - **信息提示**：展示策略执行过程中的重要提示信息，包括当前基金所处的交易状态；系统目前已定义了几十种交易状态，以满足不同交易场景的需求。  
  
-**4. 执行日志**
+4. 执行日志
  <p align="left">
     <img  src="./images/launch_factor_strategy_logs.png"/ style="max-width:none;">
  </p>
@@ -116,4 +111,3 @@
 - **运行时长**：记录并显示当前策略自启动运算以来的运行时长。
 - **仅显示成交信息**：勾选后，系统仅展示实际成交信息，其他信息将被隐藏。
 - **日志存储**：每次运算结束后，日志文件将自动存储在 `Logs` 目录下，便于后续查看与分析。
-
