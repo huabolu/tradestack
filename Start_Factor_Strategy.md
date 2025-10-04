@@ -30,7 +30,7 @@
 
 **1. 策略的买卖方向与选择**
    <p align="left">
-    <img  src="./images/launch_factor_strategy_direction.png"/ style="max-width:none;">
+    <img  src="./images/launch_factor_strategy_direction.png"/>
    </p>
 
 - **隔离的买卖实例**：因子策略将买入与卖出分为独立实例。比如勾选“买入方向”后，下拉框仅显示对应的买入策略。
