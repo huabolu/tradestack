@@ -4,7 +4,7 @@
 - **目的**通过设定不同指数对应的交易账户，可阶段性对资金账户所处的市场大环境进行交易规则的调整，达到策略执行效益的最大化；
   
 
-![](_assets/images/index_linkage.png)
+![](./images/index_linkage.png)
 
 ## 新增/修改/删除指数
  
