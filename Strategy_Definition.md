@@ -19,13 +19,12 @@
      <p align="left">
     <img  src="./images/strategy_group_add.png"/ style="max-width:none;">
  </p>
-	
 2. 输入分组名称，点击 [ 确定 ]；
 3. **添加策略**：输入**策略名称**；然后点击**确定**；这样一项策略的名称定义好，接下来定义策略所包含的内容。
    <p align="left">
     <img  src="./images/strategy_add.png"/ style="max-width:none;">
  </p>
-   > *说明：当需要删除策略分组时，如当前分组包含策略，则无法删除；策略名称后缀自动加上策略两字。*
+   > 说明：当需要删除策略分组时，如当前分组包含策略，则无法删除；策略名称后缀自动加上策略两字。
    
 
 
