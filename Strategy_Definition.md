@@ -20,8 +20,8 @@
     <img  src="./images/strategy_group_add.png"/ style="max-width:none;">
  </p>
    
-3. 输入分组名称，点击 [ 确定 ]；
-4. **添加策略**：输入**策略名称**；然后点击**确定**；这样一项策略的名称定义好，接下来定义策略所包含的内容。
+2. 输入分组名称，点击 [ 确定 ]；
+3. **添加策略**：输入**策略名称**；然后点击  [ 确定 ] ；这样一项策略的名称定义好，接下来定义策略所包含的内容。
    <p align="left">
     <img  src="./images/strategy_add.png"/ style="max-width:none;">
  </p>
