@@ -20,16 +20,7 @@
   <p align="Left">
     <img  src="./images/main_interface.png"/>
  </p>
-  
-
-
-  
-
-
-
-
-
- 
+   
 ## 🚀 快速部署
 
 - **数据库准备**
@@ -86,9 +77,6 @@ FLUSH PRIVILEGES;
 **量化交易**
 - [ 启动因子策略 ](./Start_Factor_Strategy.md)
 - [ 启动网格策略 ](./Start_Grid_Strategy.md)
-- [ 交易账户管理 ](./Trading_Account_Management.md)
-- [ 持仓信息 ](./Position_Information.md)
-- [ 交易评估 ](./Trading_Evaluation.md)
 
 **策略框架**
 - [ 策略定义 ](./Strategy_Definition.md)
