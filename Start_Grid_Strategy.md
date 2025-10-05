@@ -35,6 +35,7 @@
    <p align="left">
     <img  src="./images/launch_factor_strategy_direction.png"/ style="max-width:none;">
  </p>
+ 
 - **隔离的买卖实例**：因子策略将买入与卖出分为独立实例。比如勾选“买入方向”后，下拉框仅显示对应的买入策略。
 - **多实例启动**：如需同时运行多个策略，可开启多个因子策略窗口。每个实例由独立线程处理，互不干扰。
 - **策略列表**：下拉列表框显示所属人员可执行的策略。策略列表由 [ 策略定义 ](./Strategy_Definition.md) 中定义。
