@@ -19,7 +19,7 @@
 <p align="Left">
     <img  src="./images/main_interface.png"/>
  </p>
-<p align="center"><b>系统主界面</b></p>   
+
 ## 🚀 快速部署
 
 - **数据库准备**
