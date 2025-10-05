@@ -2,26 +2,21 @@
 
 - **定义**：旨在满足指数的条件下，对相应的个股交易进行风险的控制，主要体现在仓位控制、交易行为控制；
 - **目的**通过设定不同指数对应的交易账户，可阶段性对资金账户所处的市场大环境进行交易规则的调整，达到策略执行效益的最大化；
-  <p align="left">
-    <img  src="./images/index_linkage.png"  style="max-width:none;"/>
- </p>
+<p align="left"> <img  src="./images/index_linkage.png"  style="max-width:none;"/> </p>
  
 
 
 ## 新增修改删除指数
-<p align="left">
-    <img  src="./images/index_link_edit.png"  style="max-width:none;"/>
- </p>
+
+<p align="left"> <img  src="./images/index_link_edit.png"  style="max-width:none;"/> </p>
  
-1. **添加指数**：输入指数代码、指数名称；
-2. **修改删除指数**：修改只能修改指数名称，不能修改代码；删除指数将清除指数及关联交易账户设置；
-3. 指数可用沪深标准指数，也可自定义指数，需要注意的是指数代码需在策略库中存在；
+- **添加指数**：输入指数代码、指数名称；
+- **修改删除指数**：修改只能修改指数名称，不能修改代码；删除指数将清除指数及关联交易账户设置；
+- 指数可用沪深标准指数，也可自定义指数，需要注意的是指数代码需在策略库中存在；
 
 ## 定义支撑位行为
 
- <p align="left">
-    <img  src="./images/index_link_support.png" style="max-width:none;"/>
- </p>
+ <p align="left"> <img  src="./images/index_link_support.png" style="max-width:none;"/> </p>
 
 1. **定义支撑区间**：输入对应指数支撑位置区间；当勾选关联指数的策略启动后，系统将不断匹配该支撑位置的区间决定是否进行目标仓位和交易行为的调整；
 
