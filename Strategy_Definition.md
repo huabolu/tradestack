@@ -13,11 +13,11 @@
 
 ## 策略分组与策略
 
-1. **添加策略分组**：策略分组的命名最好是XX系列，方便管理，也和因子库、自选股池子的XX系列对应，点击**添加分组**；<br>
-	![](_assets/images/tactics_group_add.png)
+1. **添加策略分组**：点击 [ 新增 ] -> [ 新增策略分组 ] ， 策略分组的命名最好是XX系列，方便管理，也和因子库、自选股池子的XX系列对应，点击**添加分组**；<br>
+	![](./images/strategy_group_add.png)
 	
 2. 输入分组名称，点击**确定**；这是界面树形结构根目录出现新增的致远量化系列分组；选中该分组，点击**添加策略**；<br>
-	![](_assets/images/tactics_add.png)
+	![](./images/strategy_add.png)
 	
 3. **添加策略**：系统默认选择选中分组，输入**策略名称**；然后点击**确定**；这样一项策略的名称定义好，接下来定义策略所包含的内容。
 
@@ -26,13 +26,13 @@
 ## 指定股票、因子和资金账户
 
 1. **指定自选股池子**：选中策略，在**选择自选股**界面中，选择股票大类和小类；股票大类和小类在**自选股**界面中设定；<br>
-	![](_assets/images/tactics_select_stock.png)
+	![](./images/strategy_select_stock.png)
 2. **指定基金**：在**选择基金**界面中，选择券商和基金；券商和基金在**交易账户**界面中设定；<br>
-	![](_assets/images/tactics_select_fund.png)
+	![](./images/strategy_select_fund.png)
 3. **指定股票因子库**：在**选择股票因子库**界面中，选择因子分组和因子库；因子分组和因子库在**因子设计**界面中设定；<br>
-	![](_assets/images/tactics_select_factor.png)
+	![](./images/strategy_select_factor.png)
 4. **指定指数因子库**：在**选择股票因子库**界面中，选择因子分组和因子库；因子分组和因子库在**因子设计**界面中设定；<br>
-	![](_assets/images/tactics_select_index_factor.png)
+	![](./images/strategy_select_index_factor.png)
 	- 未勾选忽略指数因子库，则可选两种指数关联方式，一种是指数联动，一种是指数因子库；
 	- 指数联动主要控制基金仓位和交易行为，在**指数联动**界面设置；
 	- 指数因子库主要控制规则条件，在**因子设计**界面中设置；
@@ -54,10 +54,10 @@
 
 ## 执行权限与解锁策略
 1. **执行权限**：策略定义好之后，默认权限为空，点击**执行权限**指定可执行策略的用户。
-	![](_assets/images/tactics_user_right.png)
+	![](_assets/images/strategy_user_right.png)
 2. **锁定规则**：为确保策略的有效性，一项策略同时只能运行一次；当一项策略正在被执行，该策略将被锁定，因子导向策略和价格导向策略界面中将无法显示该策略；
 3. **策略状态**：选择一项策略，界面中会实时显示策略状态；
-    ![](_assets/images/tactics_status.png)
+    ![](_assets/images/strategy_status.png)
 4. **解锁策略**：当确定策略未被执行，但又显示策略正在被使用，则可以点击解锁策略。
 
 >*说明：仿真环境为方便策略测试，不锁定策略。*
