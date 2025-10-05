@@ -10,7 +10,7 @@
 
 ## 新增修改删除指数
 <p align="left">
-    <img  src="./images/index_link_edit"  style="max-width:none;"/>
+    <img  src="./images/index_link_edit.png"  style="max-width:none;"/>
  </p>
  
 1. **添加指数**：输入指数代码、指数名称；
