@@ -16,12 +16,15 @@
 ## 策略分组与策略
 
 1. **添加策略分组**：点击 [ 新增 ] -> [ 新增策略分组 ] -> [ 确定 ] ， 策略分组的命名最好是XX系列，方便管理，也和因子库、自选股池子的XX系列对应。
-	![](./images/strategy_group_add.png)
+     <p align="left">
+    <img  src="./images/strategy_group_add.png"/ style="max-width:none;">
+ </p>
 	
 2. 输入分组名称，点击**确定**；这是界面树形结构根目录出现新增的致远量化系列分组；选中该分组，点击**添加策略**；
-	![](./images/strategy_add.png)
-	
 3. **添加策略**：系统默认选择选中分组，输入**策略名称**；然后点击**确定**；这样一项策略的名称定义好，接下来定义策略所包含的内容。
+   <p align="left">
+    <img  src="./images/strategy_add.png"/ style="max-width:none;">
+ </p>
 
 >*说明：当需要删除策略分组时，如当前分组包含策略，则无法删除；策略名称后缀自动加上策略两字。*
 
