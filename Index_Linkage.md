@@ -11,7 +11,7 @@
 - **修改指数**：修改只能修改指数名称，不能修改代码；
 - **删除指数**：删除指数将清除指数及关联交易账户设置；
 - **自定义指数**：指数可用沪深标准指数，也可自定义指数，需要注意的是指数代码需在策略库中存在；
-  <p align="left"> <img  src="./images/index_link_edit.png"  style="max-width:none;"/> </p>
+<p align="left"> <img  src="./images/index_link_edit.png"  style="max-width:none;"/> </p>
 
 ## 定义支撑位行为
 
