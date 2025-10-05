@@ -15,7 +15,7 @@
   - 自选股可在 **自选股** 模块中配置。  
 
 
-![](/images/strategy_definition.png)
+	![](/images/strategy_definition.png)
 
 ## 策略分组与策略
 
