@@ -2,7 +2,7 @@
 <img src="./images/main_banner.png" style="max-width:none;" />
 </p>
 
-## 💻 交易栈 - 让量化交易触手可及
+## 🧩 交易栈 - 让量化交易触手可及
 
 交易栈（Tradestack）是一款原生、易用且功能强大的量化交易平台，可快速部署您的策略并投入到实战。
 
