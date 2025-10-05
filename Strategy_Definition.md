@@ -9,7 +9,7 @@
   - 自选股可在 [自选股](./Custom_Stocks.md) 中配置。 
 - **合理性校验**：系统在策略定义过程中会自动执行合理性校验，以提升策略的有效性并防范潜在风险。
  <p align="left">
-    <img  src="./images/strategy_definition.png"/ style="max-width:none;">
+    <img  src="./images/strategy_definition.png" style="max-width:none;"/>
  </p>
 
 
@@ -17,35 +17,35 @@
 
 1. **添加策略分组**：点击 [ 新增 ] -> [ 新增策略分组 ] ， 策略分组的命名最好是XX系列，方便管理，也和因子库、自选股池子的XX系列对应。
    <p align="left">
-    <img  src="./images/strategy_group_add.png"/ style="max-width:none;">
+    <img  src="./images/strategy_group_add.png" style="max-width:none;"/>
  </p>
    
 2. 输入分组名称，点击 [ 确定 ]；
 3. **添加策略**：输入**策略名称**；然后点击  [ 确定 ] ；这样一项策略的名称定义好，接下来定义策略所包含的内容。
    <p align="left">
-    <img  src="./images/strategy_add.png"/ style="max-width:none;">
+    <img  src="./images/strategy_add.png" style="max-width:none;"/>
  </p>
    
 ## 指定股票、因子和资金账户
 
 1. **交易账户**：选择券商和交易账户；券商在 [ 系统管理 ] -> [ 权限设置 ] -> [ 券商管理 ] 中设置，交易账户在 [交易账户管理](./Trading_Rules_Setup.md) 中设定；
    <p align="left">
-    <img  src="./images/strategy_select_fund.png"/ style="max-width:none;">
+    <img  src="./images/strategy_select_fund.png" style="max-width:none;"/>
  </p>
 
 2. **指定自选股池子**：选中策略，在**选择自选股**界面中，选择股票大类和小类；股票大类和小类在 [自选股](./Custom_Stocks.md) 中配置； 
    <p align="left">
-    <img  src="./images/strategy_select_stock.png"/ style="max-width:none;">
+    <img  src="./images/strategy_select_stock.png" style="max-width:none;"/>
  </p>
 
 3. **股票因子库**：在**选择股票因子库**界面中，选择因子分组和因子库；因子分组和因子库在 [因子库设计](./Factor_Library_Design.md) 中定义。  
    <p align="left">
-    <img  src="./images/strategy_select_factor.png"/ style="max-width:none;">
+    <img  src="./images/strategy_select_factor.png" style="max-width:none;"/>
  </p>
  
 4. **指数因子库**：在**选择股票因子库**界面中，选择因子分组和因子库；因子分组和因子库在 [因子库设计](./Factor_Library_Design.md) 中定义。
    <p align="left">
-    <img  src="./images/strategy_select_index_factor.png"/ style="max-width:none;">
+    <img  src="./images/strategy_select_index_factor.png" style="max-width:none;"/>
  </p>
 
   - 若未勾选“忽略指数因子库”，则可选择两种指数关联方式：  
