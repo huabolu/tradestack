@@ -79,19 +79,6 @@
     <img  src="./images/launch_factor_strategy_action.png"/ style="max-width:none;">
  </p>  
 
-7. 执行日志
-
-
-
-  
-**2. 资金及仓位情况**
-
-
-
-
-**3. 执行状态**
-
- 
 - **执行轮数**：表示当前策略运算的轮次，一轮包括规则的运算和交易的完成。  
 - **规则开关**：用于控制交易行为，在交易规则中设置，参数可即时生效，无需停止运算。  
 - **执行规则**：展示当前策略启用的交易规则信息。  
@@ -99,10 +86,10 @@
 - **执行因子**：策略启用的因子库，点击 <img src="./images/launch_factor_strategy_find.png" style="max-width:none;" /> 即可直接定位到该因子库。  
 - **信息提示**：展示策略执行过程中的重要提示信息，包括当前基金所处的交易状态；系统目前已定义了几十种交易状态，以满足不同交易场景的需求。  
  
-**4. 执行日志**
- <p align="left">
-    <img  src="./images/launch_factor_strategy_logs.png"/ style="max-width:none;">
- </p>
+7. 执行日志
+    <p align="left">
+        <img  src="./images/launch_factor_strategy_logs.png"/ style="max-width:none;">
+     </p>
  
 - **日志**：在策略执行过程中，系统会显示所有策略的执行规则、交易状态，以及交易所反馈的异常信息；支持导出保存。
 - **运行时长**：记录并显示当前策略自启动运算以来的运行时长。
