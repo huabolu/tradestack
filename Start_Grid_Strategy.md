@@ -53,7 +53,7 @@
 - **停止 - 自动交易**：策略将立即停止运算和交易。
 
 2. 资金及仓位情况
-  <p align="left">
+    <p align="left">
     <img  src="./images/launch_factor_strategy_fund.png"/ style="max-width:none;">
  </p>
  
