@@ -72,7 +72,7 @@ FLUSH PRIVILEGES;
 3. 将生成的 `Connection.xml` 拷贝至客户端安装目录的根目录。  
 4. 重新启动客户端，即可正常登录。
    
-## 🛠️ 主要功能
+## 📋 主要功能
 **量化交易**
 - [ 启动因子策略 ](./Start_Factor_Strategy.md)
 - [ 启动网格策略 ](./Start_Grid_Strategy.md)
