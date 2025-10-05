@@ -9,9 +9,10 @@
 
 
 ## 新增修改删除指数
-
-![](_assets/images/index_link_edit.png)
-
+<p align="left">
+    <img  src="./images/index_link_edit"  style="max-width:none;"/>
+ </p>
+ 
 1. **添加指数**：输入指数代码、指数名称；
 2. **修改删除指数**：修改只能修改指数名称，不能修改代码；删除指数将清除指数及关联交易账户设置；
 3. 指数可用沪深标准指数，也可自定义指数，需要注意的是指数代码需在策略库中存在；
