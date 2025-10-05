@@ -18,7 +18,7 @@
 ## 定义支撑位行为
 
  <p align="left">
-    <img  src="./images/index_link_support.png"/ style="max-width:none;">
+    <img  src="./images/index_link_support.png" style="max-width:none;"/>
  </p>
 
 1. **定义支撑区间**：输入对应指数支撑位置区间；当勾选关联指数的策略启动后，系统将不断匹配该支撑位置的区间决定是否进行目标仓位和交易行为的调整；
