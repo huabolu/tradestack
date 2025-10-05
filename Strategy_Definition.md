@@ -8,7 +8,7 @@
   - 因子条件可在 [因子库设计](./Factor_Library_Design.md) 中定义。  
   - 自选股可在 [自选股](./Custom_Stocks.md) 中配置。 
 - **合理性校验**：系统在策略定义过程中会自动执行合理性校验，以提升策略的有效性并防范潜在风险。
-  <p align="left">
+ <p align="left">
     <img  src="./images/strategy_definition.png"/ style="max-width:none;">
  </p>
 
