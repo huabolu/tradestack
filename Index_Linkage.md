@@ -2,7 +2,7 @@
 
 - **定义**：旨在满足指数的条件下，对相应的个股交易进行风险的控制，主要体现在仓位控制、交易行为控制；
 - **目的**通过设定不同指数对应的交易账户，可阶段性对资金账户所处的市场大环境进行交易规则的调整，达到策略执行效益的最大化；
- <p align="Center"> <img  src="./images/index_linkage.png" style="max-width:none;"/> </p> 
+ <p align="Center"> <img  src="./images/index_linkage.png"/> </p> 
 
 ## 新增/修改/删除指数
  
