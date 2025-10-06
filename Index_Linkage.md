@@ -4,10 +4,9 @@
 - **目的**通过设定不同指数对应的交易账户，可阶段性对资金账户所处的市场大环境进行交易规则的调整，达到策略执行效益的最大化；
  <p align="left">
    <img  src="./images/launch_factor_strategy_buy.png"/ style="max-width:none;">
-  <img  src="./images/launch_factor_strategy_sell.png"/ style="max-width:none;">
+  <img  src="./images/index_linkage.png"/ style="max-width:none;">
 </p> 
 
-<img src="./images/index_linkage.png" style="max-width:none;">
 ## 新增/修改/删除指数
  
 - **添加指数**：输入指数代码、指数名称；
