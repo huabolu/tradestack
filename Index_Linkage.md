@@ -17,7 +17,7 @@
 
 ## 定义支撑位行为
 
-![](_assets/images/index_link_Support.png)
+![](_assets/images/index_link_support.png)
 
 1. **定义支撑区间**：输入对应指数的支撑位置区间。当勾选“关联指数”的策略启动后，系统将持续匹配该支撑区间，以决定是否调整目标仓位或交易行为。  
 2. **目标仓位**：可根据个人偏好设定目标仓位。  
@@ -28,7 +28,7 @@
 
 ## 定义压力位行为
 
-![](_assets/images/index_link_Pressure.png)
+![](_assets/images/index_link_pressure.png)
 
 1. **定义压力区间**：输入对应指数的压力位置区间。当勾选“关联指数”的策略启动后，系统将持续匹配该压力区间，以决定是否调整目标仓位或交易行为。  
 2. **目标仓位**：可根据个人偏好设定目标仓位。  
@@ -45,7 +45,7 @@
 
 ## 设置有效期
 
-![](_assets/images/index_link_ValidDate.png)
+![](_assets/images/index_link_validdate.png)
 
 - **有效期设置**：为了保证指数能持续有效地辅助策略执行，需要为指数设置有效期。  
   过期后，若策略执行时仍勾选“关联指数”，系统将提示指数失效。  
