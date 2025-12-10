@@ -84,10 +84,10 @@ FLUSH PRIVILEGES;
 - [ 因子库设计 ](./Factor_Library_Design.md)
 
 **数据建模**
-- [ 新建模型分析 ](./New_Model_Analysis.md)
-- [ 打开私有模型 ](./Open_Private_Model.md)
-- [ 选股模型 ](./Stock_Selection_Model.md)
-- [ 模型对象管理 ](./Model_Object_Management.md)
+- [ 新建模型分析 ](./Model/New_Model_Analysis.md)
+- [ 打开私有模型 ](./Model/Open_Private_Model.md)
+- [ 选股模型 ](./Model/Stock_Selection_Model.md)
+- [ 模型对象管理 ](./Model/Model_Object_Management.md)
 
 **基础架构**
 - [ 因子数据源 ](./Factor_Data_Source.md)
